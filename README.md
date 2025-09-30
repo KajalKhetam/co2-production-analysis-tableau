@@ -29,9 +29,8 @@ Interactive Tableau dashboard analyzing co2 production by region, average co2 pe
 population-analysis-tableau/
 ├── README.md                  # Project documentation
 ├── data/
-│   ├── raw_data.csv          # Original dataset
+│   ├── co2.csv          # Original dataset
 │   └── data_dictionary.md    # Data field descriptions
-├── images/
 │   └──co2.png # Screenshot of dashboard
 
 
