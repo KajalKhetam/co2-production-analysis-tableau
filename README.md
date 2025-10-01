@@ -1,5 +1,5 @@
 # co2-production-analysis-tableau
-co2 production by region, average co2 per capita
+CO2 Production by Region, Average CO2 Per Capita
 
 ## Project Overview
 Interactive Tableau dashboard analyzing co2 production by region, average co2 per capita.
